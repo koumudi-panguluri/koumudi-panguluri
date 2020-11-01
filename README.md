@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💻 My projects are available at [Github](https://github.com/koumudi-panguluri)
 - 📝 Connect with me on [LinkedIn](https://www.linkedin.com/in/panguluri-koumudi-411b21159/)
 - 💬 Ask me about MEAN, MERN and DL.
-- 📫 How to reach me: [Gmail](pangulurikoumudi@gmail.com)
+- 📫 How to reach me: pangulurikoumudi@gmail.com
 
 [![Koumudi's github stats](https://github-readme-stats.vercel.app/api?username=koumudi-panguluri&show_icons=true&theme=tokyonight)](https://github.com/koumudi-panguluri/github-readme-stats)
 
