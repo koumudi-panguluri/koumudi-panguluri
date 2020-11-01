@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 
 [![Koumudi's github stats](https://github-readme-stats.vercel.app/api?username=koumudi-panguluri&show_icons=true&theme=tokyonight)](https://github.com/koumudi-panguluri/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koumudi-panguluri&layout=compact&theme=tokyonight)](https://github.com/koumudi-panguluri/github-readme-stats)
+
 [![Koumudi's twitter](http://i.imgur.com/tXSoThF.png)](https://twitter.com/koumudi_psk)
 [![Koumudi's github](http://i.imgur.com/0o48UoR.png)](https://github.com/koumudi-panguluri)
 [![Koumudi's facebook](http://i.imgur.com/P3YfQoD.png)](https://facebook.com/koumudi_psk)
