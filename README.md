@@ -1,7 +1,5 @@
-### Heyya..! YOLO..! 👋
+### YOLO..! 👋
 
-<!--
-**koumudi-panguluri/koumudi-panguluri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -9,8 +7,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Dart
 - 👯 I’m in collaboration with Apollo Telehealth
 - 💻 My projects are available at https://github.com/koumudi-panguluri
-- 📝 Reach me out at https://twitter.com/koumudi_psk for fun facts
+- 📝 Connect with me on https://www.linkedin.com/in/panguluri-koumudi-411b21159/
 - 💬 Ask me about MEAN, MERN and DL.
 - 📫 How to reach me: pangulurikoumudi@gmail.com
 
-[![Koumudi's github stats](https://github-readme-stats.vercel.app/api?username=koumudi-panguluri)](https://github.com/koumudi-panguluri/github-readme-stats)
+[![Koumudi's github stats](https://github-readme-stats.vercel.app/api?username=koumudi-panguluri&show_icons=true&theme=tokyonight)](https://github.com/koumudi-panguluri/github-readme-stats)
+
+[![Koumudi's twitter](http://i.imgur.com/tXSoThF.png)](https://twitter.com/koumudi_psk)
+[![Koumudi's github](http://i.imgur.com/0o48UoR.png)](https://github.com/koumudi-panguluri)
+[![Koumudi's facebook](http://i.imgur.com/P3YfQoD.png)](https://facebook.com/koumudi_psk)
