@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📝 Connect with me on [LinkedIn](https://www.linkedin.com/in/panguluri-koumudi-411b21159/)
 - 💬 Ask me about MEAN, MERN and DL.
 - 📫 How to reach me: pangulurikoumudi@gmail.com
-- https://infallible-wozniak-45b16a.netlify.app/
+- https://koumudi.hashnode.dev/
 
 [![Koumudi's github stats](https://github-readme-stats.vercel.app/api?username=koumudi-panguluri&show_icons=true&theme=tokyonight)](https://github.com/koumudi-panguluri/github-readme-stats)
 
